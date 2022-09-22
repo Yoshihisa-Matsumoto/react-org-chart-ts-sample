@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@yoshmatsumoto/react-org-chart": [
+        "@types/@yoshmatsumoto/react-org-chart"
+      ]
+    }
+  }
+}
